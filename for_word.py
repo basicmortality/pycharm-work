@@ -1,9 +1,8 @@
-#Prints each letter of the 'word', one under the other, on new lines
+#Prints each letter of the 'word'
 
-#word = "Phantasmagorical"
+#word = "Spam!"
 
 word = raw_input("Please type a word: ")
 
 for i in word:
-	print i
-
+	print i, #the comma keeps it all on one line, as in: S p a m ! (note the spaces)
