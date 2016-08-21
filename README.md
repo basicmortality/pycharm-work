@@ -1,5 +1,5 @@
-# pycharm-work
-#### Stuff from Pycharm
-+ Testing out Pycharm to see what working in an IDE is like
-+ May just go back to GiT in a terminal
+# Python Code
+#### My stuff from Codecademy
++ Markdown is nice
++ and so is git from a terminal
 
